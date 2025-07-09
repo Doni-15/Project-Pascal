@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="GAME_CATUR.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="18"/>
+        <UsageCount Value="152"/>
+      </Unit>
+      <Unit>
+        <Filename Value="catur.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="chess"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="575"/>
+        <CursorPos X="47" Y="589"/>
+        <ComponentState Value="1"/>
+        <UsageCount Value="152"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\imglist.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1202"/>
+        <CursorPos X="27" Y="1222"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\picture.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="433"/>
+        <CursorPos X="52" Y="546"/>
+        <UsageCount Value="29"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4258"/>
+        <CursorPos Y="4275"/>
+        <UsageCount Value="9"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="349" Column="17" TopLine="239"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="180" Column="7" TopLine="167"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="294" Column="37" TopLine="260"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="107" Column="15" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="303" Column="3" TopLine="252"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="315" Column="6" TopLine="305"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="114" Column="128" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="113" Column="128" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="112" Column="128" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="111" Column="128" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="110" Column="128" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="109" Column="128" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="108" Column="128" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="107" Column="128" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="106" Column="128" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="115" Column="24" TopLine="209"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="183" Column="28" TopLine="172"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="723" Column="48" TopLine="714"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="280" Column="21" TopLine="247"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="711" Column="46" TopLine="687"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="706" Column="53" TopLine="696"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="705" Column="53" TopLine="695"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="704" Column="53" TopLine="694"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="81" Column="9" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="228" Column="9" TopLine="205"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="349" Column="9" TopLine="319"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="367" Column="9" TopLine="344"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="591" Column="7" TopLine="557"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="562" Column="10" TopLine="550"/>
+      </Position>
+      <Position>
+        <Filename Value="catur.pas"/>
+        <Caret Line="96" Column="14" TopLine="120"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
