@@ -1,4 +1,4 @@
-# ♟️ Game Catur Berbasis GUI Pascal
+# Game Catur Berbasis GUI Pascal
 
 **Game Catur Berbasis GUI Pascal** adalah aplikasi permainan catur sederhana berbasis **Graphical User Interface (GUI)** yang dikembangkan menggunakan **bahasa Pascal** melalui **Lazarus IDE**. Game ini dirancang untuk dimainkan oleh dua pemain secara bergantian dalam satu komputer dengan papan catur visual dan interaksi klik mouse.
 
@@ -6,7 +6,7 @@ Proyek ini merupakan latihan pemrograman visual serta implementasi logika dasar 
 
 ---
 
-## 🎯 Tujuan Proyek
+## Tujuan Proyek
 
 - Menerapkan konsep **GUI programming dengan Pascal** menggunakan Lazarus.
 - Membuat representasi papan catur 8x8 yang interaktif.
@@ -15,7 +15,7 @@ Proyek ini merupakan latihan pemrograman visual serta implementasi logika dasar 
 
 ---
 
-## 🧩 Fitur
+## Fitur
 
 - Antarmuka visual papan catur dengan tampilan grid.
 - Sistem **dua pemain bergantian**.
